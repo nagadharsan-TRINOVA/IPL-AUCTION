@@ -1,0 +1,7 @@
+{
+  "name": "FINAL ND SNUC IPL Auction 2026",
+  "description": "A high-octane IPL auction platform for Shiv Nadar University Chennai, featuring player scouting, real-time bidding simulation, and team budget management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
